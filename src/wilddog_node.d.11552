@@ -1,0 +1,10 @@
+wilddog_node.o: wilddog_node.c \
+ /home/pi/Download/wilddog_guu/project/linux/../..//include/wilddog_api.h \
+ /home/pi/Download/wilddog_guu/project/linux/../..//include/wilddog_config.h \
+ /home/pi/Download/wilddog_guu/project/linux/../..//include/wilddog.h \
+ /home/pi/Download/wilddog_guu/project/linux/../..//include/wilddog_api.h \
+ /home/pi/Download/wilddog_guu/project/linux/../..//include/wilddog_debug.h \
+ /home/pi/Download/wilddog_guu/project/linux/../..//include/wilddog_debug.h \
+ wilddog_common.h \
+ /home/pi/Download/wilddog_guu/project/linux/../..//include/wilddog.h \
+ /home/pi/Download/wilddog_guu/project/linux/../..//include/wilddog_config.h
