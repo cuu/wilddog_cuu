@@ -104,3 +104,13 @@ SDK 文档: https://z.wilddog.com/device/quickstart
 
 Wiced 文档和sdk获取:http://www.broadcom.com/products/wiced/wifi/
 # wilddog_cuu
+
+Modified:
+examples/linux/addObserver.c 
+
+add a libaddobserver.so in lib/
+
+add fflush(stdout) to every wilddog_debug* so newlisp can deal the output from stdout 
+
+
+
